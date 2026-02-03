@@ -13,7 +13,7 @@ C -->|Three| F[3]
 
 subgraph s1["Image embed test"]
 
-n1@{ img: "./assets/test_raster.png" }
+n1@{ img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIAQMAAAD+wSzIAAAABlBMVEX///+/v7+jQ3Y5AAAADklEQVQI12P4AIX8EAgALgAD/aNpbtEAAAAASUVORK5CYII" }
 
 end
 ```

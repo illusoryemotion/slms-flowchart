@@ -13,7 +13,7 @@ C -->|Three| F[3]
 
 subgraph s1["Image embed test"]
 
-n1@{ img: "https://avatars.githubusercontent.com/u/20957381?s=96&v=4" }
+n1@{ img: "./assets/test_raster.png" }
 
 end
 ```
